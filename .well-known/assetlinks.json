@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.uvsubbaiah_spec.twa",
-        "sha256_cert_fingerprints": ["70:39:DB:14:E8:B1:52:7A:F9:E0:BF:95:ED:C5:56:D2:0C:A3:3D:4D:15:AC:C3:BD:7E:AB:08:3E:8C:3A:9B:C3"]
+        "sha256_cert_fingerprints": ["37:3A:AA:D6:D9:57:16:01:FD:4C:4A:EC:9F:92:62:58:F0:5E:48:98:F7:EA:73:D8:EB:31:D3:47:CC:DE:9C:B4"]
       }
     }]
